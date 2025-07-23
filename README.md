@@ -21,7 +21,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="Flipping%20Credit%20Card/image/screenshot.PNG" alt="Screenshot" width="700"/>
+<img src="Flipping%20Credit%20Card/images/screenshot.PNG" alt="Screenshot" width="700"/>
 
 This project demonstrates a modern and animated flipping credit card UI.  
 It uses 3D transforms and input fields that update live on the card — perfect for learning or adding to a modern UI portfolio.
