@@ -13,7 +13,6 @@
 [![Email](https://img.shields.io/badge/Email-msalmanwebdev%40gmail.com-red?style=social&logo=gmail)](mailto:msalmanwebdev@gmail.com)
 
 <br />
-<br />
 
 <h2 align="center">💳 Flipping Credit Card UI</h2>
 
@@ -56,8 +55,6 @@ This project is ideal for:
 
 If you like this project, don’t forget to ⭐ the repository!
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## ✨ Features
@@ -69,8 +66,6 @@ If you like this project, don’t forget to ⭐ the repository!
 - Fully responsive layout  
 - Lightweight and fast performance  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
@@ -80,8 +75,6 @@ This project is built using:
 - **HTML5**  
 - **CSS3**
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🚀 Live Demo
@@ -89,8 +82,6 @@ This project is built using:
 Check out the deployed project here:
 
 👉 **https://flipping-credit-card.vercel.app/**
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
